@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Marlon</a></b>.
     <br>I am a self-taught programming student.<br>
 
 </samp>
@@ -47,7 +47,7 @@ Credits: [TanZng](https://github.com/TanZng)
 
 Last Edited on: 31/08/2020
 
-<h1>Welcome Dioses</h1>
+
 - 👋 Hi, I’m @MarlonDioses
 - 👀 I’m interested in aprender a programar.
 - 🌱 I’m currently learning Html,Css, JavaScript.
